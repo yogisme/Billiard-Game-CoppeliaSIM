@@ -24,8 +24,7 @@ c. Pastikan semua bola punya dynamic properties diaktifkan (Rigid Body).
 Buat file Python, misalnya dengan nama billiard_multiplayer.py, lalu salin kode yang terlampir.
 
 4. MENJALANKAN PERMAINAN 
-1) Jalankan CoppeliaSim, load scene dengan bola-bola atau dapat mengakses link 
-berikut untuk sce billiard https://zeentust.notion.site/sro-fall-2025. 
+1) Jalankan CoppeliaSim, load scene dengan bola-bola dengan tipe file "Billiard.ttt". 
 2) Jangan klik Start di CoppeliaSim, biarkan Python yang memulainya. 
 3) Buka terminal di VS Code atau Command Prompt, lalu jalankan: 
 python billiard_multiplayer.py 
